@@ -1,5 +1,5 @@
 # Quad-Core-Semantic-Flywheel-Framework
-轻量型全新的多单公用的AI大模型框架
+由张悦独立创建的轻量型全新的多单公用的AI大模型框架
 # 论文：
 QSFWF：玄曦四核语义飞轮框架 —— 一种轻量级多模态语义处理系统​
 摘要​
